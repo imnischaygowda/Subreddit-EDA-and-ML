@@ -1,6 +1,7 @@
 Subreddit-EDA-and-ML
 ==============================
 
+Know about the subreddit.
 Generic SUbreddit EDA ans ML Anlaysis
 
 
